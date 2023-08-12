@@ -1,1 +1,3 @@
 # Python-Foundation-Case-Study-3-Insurance-Claims-Case-Study
+
+<h2>DATA EXPLORATORY ANALYSIS AND HYPOTHESIS TESTING FOR INSURANCE CLAIMS DATA</h2>
